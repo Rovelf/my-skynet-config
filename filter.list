@@ -1,6 +1,3 @@
-https://iplists.firehol.org/files/firehol_level1.netset
-https://rules.emergingthreats.net/blockrules/compromised-ips.txt
-https://raw.githubusercontent.com/elliotwutingfeng/ThreatFox-IOC-IPs/main/ips.txt
-https://blocklist.greensnow.co/greensnow.txt
-https://cinsscore.com/list/ci-badguys.txt
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt
+https://raw.githubusercontent.com/X4BNet/lists_vpn/main/output/vpn/ipv4.txt
+https://raw.githubusercontent.com/Enkidu-6/tor-relay-lists/refs/heads/main/relays-v4.txt
